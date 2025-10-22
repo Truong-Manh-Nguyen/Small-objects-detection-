@@ -7,6 +7,4 @@ This research investigated AI-based detection of waste littering, with a focus o
 
 Because the information related to images and videos used for training and testing must be kept confidential, I cannot disclose this information along with the video results after applying the model and detection.
 
-# Certificate 
-[Download PDF](https://drive.google.com/file/d/1PQtyPJwiVkWJd03TNuKy8D9Q66t3jdZA/view?usp=sharing)
-https://drive.google.com/file/d/1PQtyPJwiVkWJd03TNuKy8D9Q66t3jdZA/view?usp=sharing
+
